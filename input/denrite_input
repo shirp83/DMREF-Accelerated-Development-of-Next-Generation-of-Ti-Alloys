@@ -1,1 +1,13 @@
+ 0.01,5.0,10,
+ 1,
+ 300,0.0125,5,
+ 0.075,
+ 0.1048,0.02384,0.1019,0.037686,
+ 0.25,
 
+ dt, t_total(s), nout (number of outputs)
+ irun (type of initial condition)
+ gamma, L0, lamda  (mj/m2, um, grid) (interface energy, grid size, interface widith)
+ agratio
+ chcp1, chcp2, cbcc1, cbcc2  (equilibiurm compositon of the alpha phase and initial composition)
+ fc (amplitude of random noise)
