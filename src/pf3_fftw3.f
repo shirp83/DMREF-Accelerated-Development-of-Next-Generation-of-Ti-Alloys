@@ -147,7 +147,7 @@ c      convert input array to complex(8) type
 
       call dfftw_execute(pfFFTW3_plan_fwd)
 
-c     copy to OUT_DATA
+cc     copy to OUT_DATA
 
 !$OMP PARALLEL DEFAULT(SHARED)
 !$OMP&PRIVATE(i,j,k)
